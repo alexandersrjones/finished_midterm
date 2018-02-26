@@ -1,0 +1,19 @@
+#demo_all {
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin:auto;
+    position:absolute;
+    width:70vw;
+    height:70vh;
+    text-align:center;
+}
+
+.dgear {
+    background-position:center;
+    width:25%;
+    height:auto;
+    background-size:contain;
+    position:relative;
+}
